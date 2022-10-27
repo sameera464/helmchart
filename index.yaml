@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  job:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-26T21:38:56.251678-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 049641b9393cf6311540e52c7685fdb7c5840d50b6898cce8b5abee97a1262cf
+    name: job
+    type: application
+    urls:
+    - https://github.com/sameera464/helmchart/job-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-26T21:38:56.251378-04:00"
